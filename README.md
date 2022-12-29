@@ -2,7 +2,7 @@
 # Title: Machine Learning Life Project
 ### I worked on this by myself, I used Jypter Notebook and code this in Python.  
 
-## View My Project Paper: 
+## View My Paper: 
 Go to "Final_Project .pdf"
 
 ## My Objective: 
