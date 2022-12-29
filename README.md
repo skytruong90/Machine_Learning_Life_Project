@@ -12,6 +12,10 @@
 
 ## Sceenshot:
 <img src= "Capture1.PNG" width="700">
+<img src= "Capture2.PNG" width="700">
+<img src= "Capture3.PNG" width="700">
+<img src= "Capture4.PNG" width="700">
+
 
 ## What did I learned:
 
